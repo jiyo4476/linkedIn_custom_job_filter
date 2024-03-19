@@ -1,6 +1,9 @@
 {
     "blacklist": [
         "relocation",
-        "relocate"
+        "relocate",
+		"TS/SCI",
+		"clearance",
+		"secret"
     ]
 }
