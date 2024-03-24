@@ -2,7 +2,7 @@
     "blacklist": [
         "relocation",
         "relocate",
-		"TS/SCI",
+		"(?<!no)TS/SCI",
 		"clearance",
 		"secret"
     ]

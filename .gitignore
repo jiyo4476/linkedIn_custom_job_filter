@@ -7,9 +7,9 @@ __pycache__/
 *.so
 
 # dependencies
-credentials.json
-job_id_cache.pickle
-job_search_database.csv
+config.ini
+*.pickle
+*.csv
 
 # Distribution / packaging
 .Python
